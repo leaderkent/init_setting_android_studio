@@ -11,3 +11,8 @@ allprojects {
     }
 }
 ```
+
+## 设置sdk下载代理（二选一）
+* 腾讯：https://mirrors.cloud.tencent.com/AndroidSDK/
+* 阿里：https://mirrors.aliyun.com/android.googlesource.com/
+![alt text](images/image.png)
