@@ -6,7 +6,7 @@ gradle 全局换源，修改或新建文件：~/.gradle/init.gradle
 allprojects {
     repositories {
         maven {
-            url "http://maven.aliyun.com/nexus/content/groups/public"
+            url "https://maven.aliyun.com/nexus/content/groups/public"
         }
     }
 }
